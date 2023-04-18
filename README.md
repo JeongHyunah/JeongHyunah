@@ -1,5 +1,13 @@
 <img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AAOQEOSeBjE2nnwX4SHkknj03IwgahliNmXnr3BPmsb-6OqL5396P_eLvbwDlmp0R9Waj3XB9qBuhtoNZ_cNu-ZtDHaZzYl9=w1029-h936" alt="깃허브 배너"></img>
 
+<div>
+<h4>  Hello, I'm a college student hoping to be a game client developer.<br>
+      I'm uploading my development process on tstory as well as GitHub, so please feel free to come and watch it.<br><br>
+      I love books, movies, and games and I like anything that I make by hand.<br>
+      My goal before graduation is to develop all the games I planned.
+</h4>
+</div>
+
 <div align="center">
   <h1></h1>
   <h3>𝐒𝐍𝐒 𝐥𝐢𝐬𝐭</h3>
