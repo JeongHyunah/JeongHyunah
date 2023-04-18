@@ -32,6 +32,6 @@
 
 <div align="center">
   <br>
-  <img width="55%" src="https://lh3.googleusercontent.com/u/1/drive-viewer/AAOQEOQrbYJqO7gm5UCMlr-zaLbY5_ICv_Z-vd2JA0Yq8BZyM-rXWUrZidGRvTjdNAxUxu9PRONtarseWwwe_xRNKsZPIv0Ngg=w1029-h936" alt="프로필"></img>
-  <img src="https://github-readme-stats.vercel.app/api?username=JeongHyunah&theme=moltack&show_icons=true"></img>
+  <img width="70%" src="https://lh3.googleusercontent.com/u/1/drive-viewer/AAOQEOQrbYJqO7gm5UCMlr-zaLbY5_ICv_Z-vd2JA0Yq8BZyM-rXWUrZidGRvTjdNAxUxu9PRONtarseWwwe_xRNKsZPIv0Ngg=w1029-h936" alt="프로필"></img>
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=JeongHyunah&theme=moltack&show_icons=true"></img>
 </div>
