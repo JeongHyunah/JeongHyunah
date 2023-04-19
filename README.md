@@ -2,7 +2,7 @@
 
 <div>
 <h4>  Hello, I'm a college student hoping to be a game client developer.<br>
-      I'm uploading my development process on tstory as well as GitHub, so please feel free to come and watch it.<br><br>
+      I'm uploading my development process on tistory as well as GitHub, so please feel free to come and watch it.<br><br>
       I love books, movies, and games and I like anything that I make by hand.<br>
       My goal before graduation is to develop all the games I planned.
 </h4>
