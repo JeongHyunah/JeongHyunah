@@ -16,7 +16,7 @@
     <a href="https://instagram.com/gusdk6196?igshid=YmMyMTA2M2Y=">
       <img src="https://img.shields.io/badge/instagram-636363?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
     <br>
-  <h5>Click the link.</h5> <br>
+  Click the link. <br><br>
   <h3>𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦 & 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞</h3>
     <img src="https://img.shields.io/badge/unity-636363?style=for-the-badge&logo=unity&logoColor=white"></img>
     <img src="https://img.shields.io/badge/aseprite-636363?style=for-the-badge&logo=aseprite&logoColor=white"></img>
