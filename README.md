@@ -1,11 +1,11 @@
-<img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AAOQEOSeBjE2nnwX4SHkknj03IwgahliNmXnr3BPmsb-6OqL5396P_eLvbwDlmp0R9Waj3XB9qBuhtoNZ_cNu-ZtDHaZzYl9=w1029-h936" alt="깃허브 배너"></img>
+<img src="https://github.com/JeongHyunah/JeongHyunah/assets/104128693/e7166254-d15d-4a7a-91b7-2f1b63c25a25" alt="깃허브 배너"></img>
 
 <div>
-<h4>  Hello, I'm a college student hoping to be a game client developer.<br>
+      Hello, I'm a college student hoping to be a game client developer.<br>
       I'm uploading my development process on tistory as well as GitHub, so please feel free to come and watch it.<br><br>
       I love books, movies, and games and I like anything that I make by hand.<br>
       My goal before graduation is to develop all the games I planned.
-</h4>
+      <br>
 </div>
 
 <div align="center">
@@ -32,6 +32,6 @@
 
 <div align="center">
   <br>
-  <img width="70%" src="https://lh3.googleusercontent.com/u/1/drive-viewer/AAOQEOQrbYJqO7gm5UCMlr-zaLbY5_ICv_Z-vd2JA0Yq8BZyM-rXWUrZidGRvTjdNAxUxu9PRONtarseWwwe_xRNKsZPIv0Ngg=w1029-h936" alt="프로필"></img>
+  <img width="70%" src="https://github.com/JeongHyunah/JeongHyunah/assets/104128693/9da2ec6f-5770-47d6-b120-70abcf000f6d" alt="프로필"></img>
   <img width="70%" src="https://github-readme-stats.vercel.app/api?username=JeongHyunah&theme=moltack&show_icons=true"></img>
 </div>
