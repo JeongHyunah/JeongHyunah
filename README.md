@@ -18,10 +18,10 @@
     <br>
   Click the link. <br><br>
   <h3>𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦 & 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞</h3>
-    <img src="https://img.shields.io/badge/unity-636363?style=for-the-badge&logo=unity&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/aseprite-636363?style=for-the-badge&logo=aseprite&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/c-636363?style=for-the-badge&logo=c&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/csharp-636363?style=for-the-badge&logo=csharp&logoColor=white"></img>
+      <img src="https://img.shields.io/badge/unity-636363?style=for-the-badge&logo=unity&logoColor=white"></img>
+      <img src="https://img.shields.io/badge/c-636363?style=for-the-badge&logo=c&logoColor=white"></img>
+      <img src="https://img.shields.io/badge/csharp-636363?style=for-the-badge&logo=csharp&logoColor=white"></img>
+      <img src="https://img.shields.io/badge/cplusplus-636363?style=for-the-badge&logo=cplusplus&logoColor=white"></img>
     <br>
   <h3>𝐓𝐨𝐨𝐥</h3>
     <img src="https://img.shields.io/badge/git-636363?style=for-the-badge&logo=git&logoColor=white"></img>
