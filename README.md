@@ -13,7 +13,7 @@
   <h3>𝐒𝐍𝐒 𝐥𝐢𝐬𝐭</h3>
     <a href="https://holomaking.tistory.com/">
       <img src="https://img.shields.io/badge/tistory-636363?style=for-the-badge&logo=tistory&logoColor=white"></img></a>
-    <a href="https://instagram.com/gusdk6196?igshid=YmMyMTA2M2Y=">
+    <a href="https://www.instagram.com/holomaking/">
       <img src="https://img.shields.io/badge/instagram-636363?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
     <br>
   Click the link. <br><br>
