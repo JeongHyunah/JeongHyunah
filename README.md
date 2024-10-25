@@ -1,15 +1,4 @@
-<img src="https://github.com/JeongHyunah/JeongHyunah/assets/104128693/e7166254-d15d-4a7a-91b7-2f1b63c25a25" alt="깃허브 배너"></img>
-
-<div>
-      Hello, I'm a college student hoping to be a game client developer.<br>
-      I'm uploading my development process on tistory as well as GitHub, so please feel free to come and watch it.<br><br>
-      I love books, movies, and games and I like anything that I make by hand.<br>
-      My goal before graduation is to develop all the games I planned.
-      <br>
-</div>
-
 <div align="center">
-  <h1></h1>
   <h3>𝐒𝐍𝐒 𝐥𝐢𝐬𝐭</h3>
     <a href="https://holomaking.tistory.com/">
       <img src="https://img.shields.io/badge/tistory-636363?style=for-the-badge&logo=tistory&logoColor=white"></img></a>
